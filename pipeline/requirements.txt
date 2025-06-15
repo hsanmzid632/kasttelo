@@ -1,0 +1,9 @@
+torch
+timm
+faiss-cpu
+opencv-python
+scikit-learn
+pillow
+matplotlib
+tqdm
+fashion-clip @ git+https://github.com/patrickjohncyh/fashion-clip.git
